@@ -1,5 +1,5 @@
 {
-	"name": "xethron/migrations-generator",
+	"name": "xbing2002/migrations-generator",
 	"description": "Generates Laravel Migrations from an existing database",
 	"keywords": ["laravel", "migration", "generator", "migrations", "artisan"],
 	"license": "MIT",
@@ -11,8 +11,8 @@
 	],
 	"require": {
 		"php": ">=5.4.0",
-		"illuminate/support": ">=4.1",
-		"xethron/laravel-4-generators": "~3.1.0",
+		"illuminate/support": "~6.0",
+		"xethron/laravel-4-generators": "dev-master",
 		"doctrine/dbal": "~2.4"
 	},
 	"autoload": {
